@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+
+public class Search {
+	public static void main(String[] args) throws Exception {
+	    List<String> haystack = Arrays.asList(new String[] { "Is a word", "sentence", "foreign language", "subject" });
+	    List<String> needles = Arrays.asList(new String[] { "language", "sentence", "word" });
+
+	    StringBuilder sb = new StringBuilder();
+	    sb.append(".*(");
+	    for (String needle : needles) {
+	        sb.append(needle).append('|');
+	    }
+	    sb.replace(sb.length() - 1, sb.length(), ").*");
+	    String current = sb.toString();
+
+	    for (String target : haystack) {
+	        if (!target.matches(current)) {
+	            System.out.println("There is no searching for: " + target);
+	            continue;
+	        }
+
+	        for (String needle : needles) {
+	            if (target.contains(needle)) {
+	                System.out.println(target + " contains " + needle);
+	            }
+	        }
+	    }
+	}
+}

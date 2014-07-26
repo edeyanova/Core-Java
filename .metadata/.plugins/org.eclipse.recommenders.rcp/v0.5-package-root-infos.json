@@ -1,0 +1,236 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0822d8c3c431fb67980b1e331fb3e373cb7a7ca4",
+    "jarFileModificationDate": "2014-05-27T00:36:40.798+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2014-05-27T00:36:07.126+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "36cb0877f729bdad35b82607a48d13b54ba2a196",
+    "jarFileModificationDate": "2014-05-27T00:36:07.129+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "mail-1.4-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fdd508f19a5075196138c94b341120e917c10e8a",
+    "jarFileModificationDate": "2014-07-25T10:05:54.841+03:00",
+    "location": "C:\\Users\\Elina\\Downloads\\mail-1.4-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "85a5319d0aa7479e1b6238ec497b9f0de0047561",
+    "jarFileModificationDate": "2014-05-27T00:36:43.763+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "342c507accb269136cb9beb0c6062bb2ac8572e7",
+    "jarFileModificationDate": "2014-05-27T00:36:06.761+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2014-05-27T00:36:07.068+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f7de3b5029e6fcf925295ebc711f618fd93339b9",
+    "jarFileModificationDate": "2014-05-27T00:36:39.885+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f1a4291571d838c6288a1a8e4ed979a40eaf0629",
+    "jarFileModificationDate": "2014-05-27T00:36:07.906+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtoaster-1.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dee066bd2959710335be8640d8bbcc3b75ec3074",
+    "jarFileModificationDate": "2014-07-25T09:27:34.750+03:00",
+    "location": "C:\\Users\\Elina\\Downloads\\jtoaster-1.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e4cac440699c9a6521c47b55243100a6c81f6044",
+    "jarFileModificationDate": "2014-05-27T00:36:07.691+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "619e2b379fe770a4969c0cd0c9799a96b9a14b97",
+    "jarFileModificationDate": "2014-05-27T00:36:06.969+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5ab010de275a1ec02a2f7300209539d2df4aeb5",
+    "jarFileModificationDate": "2014-05-27T00:36:44.477+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5cbac3517fe111339920477e4a833e2c1adf5322",
+    "jarFileModificationDate": "2014-05-27T00:36:06.807+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2014-05-27T00:36:07.071+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.mail.javax.mail",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1592bd6ca4bf3605637c655b55d1e882d0aabef0",
+    "jarFileModificationDate": "2014-07-25T10:08:17.897+03:00",
+    "location": "C:\\Users\\Elina\\Downloads\\javax.mail.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2014-05-27T00:36:07.676+03:00",
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_55\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-email-1.3.3-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db1e80f18ed82fc4856c6d252d38933e8bcc0da0",
+    "jarFileModificationDate": "2014-07-25T10:14:52.660+03:00",
+    "location": "C:\\Users\\Elina\\Downloads\\commons-email-1.3.3-bin.zip",
+    "javaRuntime": false
+  }
+]

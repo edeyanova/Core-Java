@@ -1,0 +1,18 @@
+
+import java.io.IOException;
+import java.net.URL;
+import java.net.URLConnection;
+
+
+public class WebCrawler {
+public static void main(String args[]) throws IOException {
+    URL url = new URL("http://www.javacoffeebreak.com/faq/faq0079.html");
+    URLConnection uc = url.openConnection();
+    uc.setRequestProperty("Authorization", "Basic bG9hbnNkZXY6bG9AbnNkM3Y=");
+    uc.setRequestProperty("User-Agent", "");
+    uc.connect();
+    String contentType = uc.getContentType();
+    System.out.println(contentType);
+       
+   }
+}
