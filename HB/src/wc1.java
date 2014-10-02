@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 
 public class wc1 {
-	public static void wordCount() throws IOException {
-		FileReader fr = new FileReader("text.txt");
+	public static void wordCount(String file) throws IOException {
+		FileReader fr = new FileReader(file);
 		BufferedReader br = new BufferedReader (fr);
 		String line = br.readLine();
 		
@@ -22,8 +22,8 @@ public class wc1 {
 		}
 		System.out.println(count - 1);	
 	}
-	public static void lineCount() throws IOException {
-		FileReader fr = new FileReader("text.txt");
+	public static void lineCount(String file) throws IOException {
+		FileReader fr = new FileReader(file);
 		BufferedReader br = new BufferedReader (fr);
 		int count1 = 0;
 		String lineCount;
@@ -32,10 +32,10 @@ public class wc1 {
 		}
 		System.out.println(count1 - 1);
 	}
-	public static void charsCount() throws IOException {
+	public static void charsCount(String file) throws IOException {
 		int charsCount = 0;
-		File file = new File("text.txt");
-		Scanner in = new Scanner(file);
+		File files = new File(file);
+		Scanner in = new Scanner(files);
 		
 		while (in.hasNextLine()) {
 			String line = in.nextLine();
@@ -47,14 +47,14 @@ public class wc1 {
 		System.out.println(charsCount);
 	}
 	public static void wc() throws IOException {
-		wordCount();	
-		lineCount();
-		charsCount();
+		wordCount("text.txt");	
+		lineCount("text.txt");
+		charsCount("text.txt");
 	}
 	public static void main(String[] args) throws IOException {
-		wordCount();	
-		lineCount();
-		charsCount();
+		wordCount("text.txt");	
+		lineCount("text.txt");
+		charsCount("text.txt");
 		wc();
 	}	
 }
