@@ -46,15 +46,15 @@ public class wc1 {
 		}
 		System.out.println(charsCount);
 	}
-	public static void wc() throws IOException {
-		wordCount("text.txt");	
-		lineCount("text.txt");
-		charsCount("text.txt");
+	public static void wc(String file) throws IOException {
+		wordCount(file);	
+		lineCount(file);
+		charsCount(file);
 	}
-	public static void main(String[] args) throws IOException {
-		wordCount("text.txt");	
-		lineCount("text.txt");
-		charsCount("text.txt");
-		wc();
-	}	
+	//public static void main(String[] args) throws IOException {
+	//	wordCount("text.txt");	
+	//	lineCount("text.txt");
+	//	charsCount("text.txt");
+	//	wc("text.txt");
+	//}	
 }
